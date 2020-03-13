@@ -1,0 +1,14 @@
+This project is all about identifying Instagram Fake Accounts
+Name---------------------------------- (Account Name)-------------------------String
+date of regis -------------------------(date of registratio-------------------Numerical
+bios-----------------------------------(profile descriptio--------------------Yes/No
+person pic uploaded--------------------(Individual picture)-------------------Yes/No
+total  login per week---------------------------------------------------------Numerical
+no of post shared per week----------------------------------------------------Numerical
+avg follower per week---------------------------------------------------------Numerical
+avg following per week--------------------------------------------------------Numerical
+comments per week-------------------------------------------------------------Numerical
+no of spam or unfollow detected-----------------------------------------------Numerical
+follower to following ratio---------------------------------------------------Numerical
+maxed out following limit-----------------------------------------------------Yes/No
+output----------------------------------(Fake Account or Not)-----------------Yes/No
